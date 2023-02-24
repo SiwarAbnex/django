@@ -15,13 +15,13 @@ Once you have Docker and Docker Compose installed, follow these steps:
 1.  Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/housemateguy/djangolinkshortner.git
+    git clone https://github.com/SiwarAbnex/django.git
     ```
 
 2.  Change into the project directory:
 
     ```bash
-    cd djangolinkshortner
+    cd django
     ```
 
 3.  Run Docker Compose to build and start the application:
@@ -32,7 +32,7 @@ Once you have Docker and Docker Compose installed, follow these steps:
 
 4.  Open your web browser and go to `http://localhost:8000` to access the application: 
 
-![Screenshot of the application](https://raw.githubusercontent.com/housemateguy/djangolinkshortner/master/imgs/Screenshot_2023-02-23_17-27-54.png)
+![Screenshot of the application](https://raw.githubusercontent.com/SiwarAbnex/django/master/imgs/Screenshot_2023-02-23_17-27-54.png)
     
 
 ### Creating Short URLs
@@ -53,8 +53,8 @@ To view a shortened URL that you have created, follow these steps:
 
 ### Screenshots
 
-![Screenshot of the application](https://raw.githubusercontent.com/housemateguy/djangolinkshortner/master/imgs/Screenshot_2023-02-23_17-27-54.png)
+![Screenshot of the application](https://raw.githubusercontent.com/SiwarAbnex/django/master/imgs/Screenshot_2023-02-23_17-27-54.png)
 
-![Screenshot of the application](https://raw.githubusercontent.com/housemateguy/djangolinkshortner/master/imgs/Screenshot_2023-02-23_17-28-23.png)
+![Screenshot of the application](https://raw.githubusercontent.com/SiwarAbnex/django/master/imgs/Screenshot_2023-02-23_17-28-23.png)
 
-![Screenshot of the application](https://raw.githubusercontent.com/housemateguy/djangolinkshortner/master/imgs/Screenshot_2023-02-23_17-27-27.png)
+![Screenshot of the application](https://raw.githubusercontent.com/SiwarAbnex/django/master/imgs/Screenshot_2023-02-23_17-27-27.png)
